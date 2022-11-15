@@ -1,0 +1,16 @@
+export const pagesRoutes = [
+  ["v-6ce48554","/contributing.html",{"title":"contributing"},["/contributing","/contributing.md"]],
+  ["v-2b50ac68","/foo.html",{"title":"foo"},["/foo","/foo.md"]],
+  ["v-8daa1a0e","/",{"title":"请坚持输出"},["/index.html","/README.md"]],
+  ["v-565d9d8b","/nested/page.html",{"title":"nested>page"},["/nested/page","/nested/page.md"]],
+  ["v-78f2c975","/nested/page2.html",{"title":"nested>page2"},["/nested/page2","/nested/page2.md"]],
+  ["v-50519e02","/nested/",{"title":"nested"},["/nested/index.html","/nested/README.md"]],
+  ["v-7a974312","/guide/chores.html",{"title":"一些杂事"},["/guide/chores","/guide/chores.md"]],
+  ["v-4c135133","/guide/git.html",{"title":"Git"},["/guide/git","/guide/git.md"]],
+  ["v-8085d6aa","/guide/node.html",{"title":"Node"},["/guide/node","/guide/node.md"]],
+  ["v-fffb8e28","/guide/",{"title":"guide"},["/guide/index.html","/guide/README.md"]],
+  ["v-9c74260a","/zh/foo.html",{"title":"zh>foo"},["/zh/foo","/zh/foo.md"]],
+  ["v-2d0ad528","/zh/",{"title":"关于我"},["/zh/index.html","/zh/README.md"]],
+  ["v-11e76820","/zh/nested/",{"title":"zh>nested"},["/zh/nested/index.html","/zh/nested/README.md"]],
+  ["v-3706649a","/404.html",{"title":""},["/404"]],
+]
